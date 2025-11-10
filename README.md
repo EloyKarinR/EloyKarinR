@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy de Panamá<br><br>- 👨‍🎓 Soy Estudiante de la Universidad de Panamá, actualmente estoy en la Facultad de Informatica<br>- <br>- ⚡ En mi tiempo libre me gusta explorar tecnologias nuevas</p>
+<p align="left"><br>- 👨‍🎓 Soy Estudiante de la Universidad de Panamá, actualmente estoy en la Facultad de Informatica<br> <br>- ⚡ En mi tiempo libre me gusta explorar tecnologias nuevas</p>
 
 ###
 
