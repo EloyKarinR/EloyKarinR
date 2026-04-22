@@ -22,11 +22,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
 
-<p align="left"><br>- 👨‍🎓 Soy Estudiante de la Universidad de Panamá, actualmente estoy en la Facultad de Informatica<br> <br>- ⚡ En mi tiempo libre me gusta explorar tecnologias nuevas</p>
+
 
 ###
 
